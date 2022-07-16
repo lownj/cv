@@ -1,0 +1,11 @@
+.info
+{
+    background-color: aqua;
+    margin-left: auto;
+
+}
+.info1{
+    background-color: blueviolet;
+    background-size: cover;
+    background-origin: border-box;
+}
